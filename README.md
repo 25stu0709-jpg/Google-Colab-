@@ -1,4 +1,4 @@
-# Google-Colab-
+# Google-Colab-만들기
 
 # 📘 구글 코랩(Google Colab) 사용법
 
